@@ -16,5 +16,5 @@
 
 const numero = 123;
 const numeroEcaractere = "123a";
-console.log(numero + Number(numeroEcaractere))
+console.log(numero + Number(numeroEcaractere));
 
